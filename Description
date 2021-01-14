@@ -1,0 +1,13 @@
+Used notebooks:
+
+1. Creating datasets:
+- simulated "simulated_data_scaled"
+- from sdss and ctmo: "galaxy_IC4559-CTMO+SDSS"
+
+2. Creating NN models:
+- CNN "CNNsingle_input"
+- NN "NNdouble_input"
+
+3. Calculating predictions:
+- CNN "CNNsingle_prediction"
+- NN "NNdouble_prediction"
